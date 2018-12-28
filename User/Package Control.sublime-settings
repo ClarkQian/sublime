@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"C++ Completions",
+		"CTags",
+		"Erl-AutoCompletion",
+		"Git",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"SublimeLinter-clang",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-cpplint"
+	]
+}
